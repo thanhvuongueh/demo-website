@@ -1,0 +1,22 @@
+.icon-delete-img {
+    position: absolute;;
+    top: -15px;
+    left: -15px;
+}
+
+.mb-2 {
+    margin-bottom: .5rem;
+}
+
+td, th {
+    vertical-align: middle !important;
+}
+
+td.delete-icon {
+    cursor: pointer;
+}
+
+.wrap-detail-image {
+    position:relative;
+    margin-bottom: 2rem;
+}
